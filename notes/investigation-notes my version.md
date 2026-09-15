@@ -1,6 +1,5 @@
 # Investigation Notes
 
----
 
 ## Initial Environment Validation
 
